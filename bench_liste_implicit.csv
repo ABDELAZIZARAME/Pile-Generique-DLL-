@@ -1,0 +1,5 @@
+Implémentation,Type,Opération,N,Temps_min(ms),Temps_moyen(ms),Temps_max(ms),Ecart-type(ms)
+liste,int,N pushes,1000,0.353600,0.517620,0.982800,0.195460
+liste,int,N pushes,10000,6.576600,9.149920,26.690200,6.174855
+liste,int,N pops (après remplissage),1000,0.921300,1.364910,3.129600,0.657641
+liste,int,N pops (après remplissage),10000,7.134000,18.544140,56.119300,19.383884
